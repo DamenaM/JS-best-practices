@@ -1,5 +1,5 @@
 # MihertabDamena.github.io
-capstone project - ICT EXPO Conference page
+capstone project - js best Practice
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
